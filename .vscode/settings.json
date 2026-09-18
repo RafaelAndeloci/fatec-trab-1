@@ -1,0 +1,16 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "cSpell.words": [
+    "autopct",
+    "dayfirst",
+    "edgecolor",
+    "facecolor",
+    "figsize",
+    "fontsize",
+    "fontweight",
+    "markersize",
+    "mdates",
+    "perc",
+    "regiao"
+  ]
+}
