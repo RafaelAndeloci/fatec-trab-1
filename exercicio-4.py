@@ -17,7 +17,7 @@ df["ID_CLIENTE"] = df["ID_CLIENTE"].fillna("Não Informado")
 
 # Exercício 4
 
-fig, ax = plt.subplots(2, 2, figsize=(7, 5))
+fig, ax = plt.subplots(2, 2, figsize=(14, 10))
 
 # 4.1 Cartão KPI
 
