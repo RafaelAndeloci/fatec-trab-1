@@ -1,3 +1,7 @@
+# Alunos
+# Rafael Andeloci Rodrigues Gonçalves
+# Eraldo Henrique Apolaro
+
 from pathlib import Path
 import runpy
 
